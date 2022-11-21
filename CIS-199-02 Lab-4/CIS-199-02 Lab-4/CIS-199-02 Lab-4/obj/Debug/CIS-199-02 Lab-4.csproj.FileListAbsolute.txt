@@ -1,0 +1,10 @@
+C:\Users\David\Desktop\CIS-199-02 Lab-4\CIS-199-02 Lab-4\bin\Debug\CIS-199-02 Lab-4.exe.config
+C:\Users\David\Desktop\CIS-199-02 Lab-4\CIS-199-02 Lab-4\bin\Debug\CIS-199-02 Lab-4.exe
+C:\Users\David\Desktop\CIS-199-02 Lab-4\CIS-199-02 Lab-4\bin\Debug\CIS-199-02 Lab-4.pdb
+C:\Users\David\Desktop\CIS-199-02 Lab-4\CIS-199-02 Lab-4\obj\Debug\CIS-199-02 Lab-4.csprojAssemblyReference.cache
+C:\Users\David\Desktop\CIS-199-02 Lab-4\CIS-199-02 Lab-4\obj\Debug\CIS_199_02_Lab_4.Lab4.resources
+C:\Users\David\Desktop\CIS-199-02 Lab-4\CIS-199-02 Lab-4\obj\Debug\CIS_199_02_Lab_4.Properties.Resources.resources
+C:\Users\David\Desktop\CIS-199-02 Lab-4\CIS-199-02 Lab-4\obj\Debug\CIS-199-02 Lab-4.csproj.GenerateResource.cache
+C:\Users\David\Desktop\CIS-199-02 Lab-4\CIS-199-02 Lab-4\obj\Debug\CIS-199-02 Lab-4.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\CIS-199-02 Lab-4\CIS-199-02 Lab-4\obj\Debug\CIS-199-02 Lab-4.exe
+C:\Users\David\Desktop\CIS-199-02 Lab-4\CIS-199-02 Lab-4\obj\Debug\CIS-199-02 Lab-4.pdb
